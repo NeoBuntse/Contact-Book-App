@@ -69,7 +69,14 @@ To use this project, you must have a valid API key to interact with the `Contact
 
 ## 📸 Demo Screenshot
 
-![Screenshot of Contact Book App](screenshot.png)
+![image](https://github.com/user-attachments/assets/0a503373-0037-4ed4-8037-63350c10a6f4)
+
+![image](https://github.com/user-attachments/assets/d04aa21b-c91e-416e-8e51-f49239afef0b)
+
+![image](https://github.com/user-attachments/assets/9cf3b480-a920-40e2-809b-d864b08502da)
+
+![image](https://github.com/user-attachments/assets/b22fb00e-f895-414a-a8c7-edd5c800cc58)
+
 
 > You can take a screenshot of your app and save it as `screenshot.png` for this section.
 
